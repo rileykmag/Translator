@@ -1,4 +1,5 @@
 {
+    "id": "beba6f8f-c68b-414e-a3d6-e90d1ce9c3be",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -30,7 +31,7 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "backgroundColor": "rgba(74, 144, 226, 0.34)"
+            "backgroundColor": "rgba(208, 2, 27, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -53,7 +54,7 @@
             "headerStyle": {}
         },
         "tabNavigationOptions": {},
-        "BackgroundColor": "rgba(74, 144, 226, 0.34)"
+        "BackgroundColor": "rgba(208, 2, 27, 1)"
     },
     "children": [
         {
@@ -695,7 +696,6 @@
             "name": "Text_Input1"
         }
     ],
-    "id": "beba6f8f-c68b-414e-a3d6-e90d1ce9c3be",
     "thunkableVersion": 441,
     "name": "Screen1"
 }
